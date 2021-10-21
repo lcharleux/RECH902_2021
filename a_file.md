@@ -1,10 +1,26 @@
 # A DEMO TEXT FILE
 
-Some
+Some stuff
+
 Added stuff from Xavier
 hello
 
+
 How are you?
-SOme other stuff
+hello im here (Khalil Mohtar)SOme other stuff
 modification for the code
-hhhh
+faster guyss
+please work
+THIS IS A MESS!!!!
+
+
+hello im here (Khalil Mohtar)
+
+SOme other stuff
+
+modification for the code
+
+faster guyss
+please work
+
+Osvaldo here hello
