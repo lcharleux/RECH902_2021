@@ -1,17 +1,13 @@
 # A DEMO TEXT FILE
 
 Some stuff
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 Added stuff from Xavier
-=======
-SOme other stuff
->>>>>>> 73c92e98663ebe6748e5e03d9f9a73ce4051388f
 hello 
-=======
-<<<<<<< HEAD
+
+
 How are you?
+<<<<<<< HEAD
 >>>>>>> b5de51a0ee2f49e092390b061fa6df9173c8e62a
 hello im here (Khalil Mohtar)SOme other stuff
 modification for the code
@@ -27,3 +23,17 @@ Osvaldo here hello
 >>>>>>> b5de51a0ee2f49e092390b061fa6df9173c8e62a
 >>>>>>> 8dc61b23148099778c24c5ddeb39190dcdbdf330
 >>>>>>> cda698b87364c7fc0192e5e7ca4b134ea6ffbed6
+=======
+
+hello im here (Khalil Mohtar)
+
+SOme other stuff
+
+modification for the code
+
+faster guyss
+please work
+
+Osvaldo here hello
+
+>>>>>>> 0bbdc382be5b268d07a19abc4741cf523fdea4bb
